@@ -1,5 +1,3 @@
-![logo](docs/logo.png?raw=true)
-
 An admin UI for the [Hexo blog engine](http://hexo.io). Based off of the [Ghost](http://ghost.org) interface, with inspiration from [svbtle](http://svbtle.com) and [prose.io](http://prose.io).
 
 ## Hexo Version
@@ -34,7 +32,7 @@ npm install
 ```
 ### 2. Install the admin & start things up
 ```sh
-npm install --save hexo-admin
+npm install --save force-hexo-admin
 hexo server -d
 open http://localhost:4000/admin/
 ```
